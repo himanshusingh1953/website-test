@@ -1,4 +1,4 @@
-: Automating Deployment for Rapid Delivery
+ Automating Deployment for Rapid Delivery
 
 
 Technologies Used: Ansible, Git, Docker, Jenkins
